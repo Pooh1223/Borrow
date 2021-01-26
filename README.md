@@ -31,4 +31,4 @@
 
 ## Comments
 
-### Bug reports are welcome, but will may not always be fixed
+### Bug reports are welcome, but may not always be fixed
